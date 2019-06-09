@@ -7,3 +7,11 @@ simulation
 *.qsf
 *.qws
 *.rpt
+software/Listings
+software/Objects
+software/*.hex
+software/*.txt
+software/*.uvguix.14551
+software/*.Administrator
+software/*.uvoptx
+
